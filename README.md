@@ -11,23 +11,7 @@ ChartingPark is a structured trading practice platform designed to help aspiring
 
 ---
 
-## What Is ChartingPark?
-
-ChartingPark is where traders:
-
-- Practice trading on real market data
-- Build risk management discipline
-- Improve decision-making through repetition
-- Track performance metrics like win rate, drawdown, and expectancy
-- Compete on skill-based leaderboards
-
-The focus is simple:
-
-**Learn trading by doing.**
-
----
-
-## Explore the Platform
+# Explore the Platform
 
 🌐 Website: https://chartingpark.com  
 📈 Start practicing: https://app.chartingpark.com  
